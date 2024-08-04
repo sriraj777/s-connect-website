@@ -1,2 +1,4 @@
 # s-connect-website
-git clone https://github.com/your-username/s-connect-website.git
+git clone https://github.com/sriraj777/s-connect-website.git
+cd s-connect-website
+
